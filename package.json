@@ -1,0 +1,26 @@
+{
+  "name": "esercitazionebackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregoryDionisi/esercitazioneBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GregoryDionisi/esercitazioneBackend/issues"
+  },
+  "homepage": "https://github.com/GregoryDionisi/esercitazioneBackend#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.16.0"
+  }
+}
